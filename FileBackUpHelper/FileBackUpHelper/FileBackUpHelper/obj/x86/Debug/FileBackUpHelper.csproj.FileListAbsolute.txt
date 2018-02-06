@@ -1,0 +1,10 @@
+D:\DropBox\dll\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\bin\x86\Debug\FileBackUpHelper.exe.config
+D:\DropBox\dll\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\bin\x86\Debug\FileBackUpHelper.exe
+D:\DropBox\dll\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\bin\x86\Debug\FileBackUpHelper.pdb
+D:\DropBox\dll\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\x86\Debug\FileBackUpHelper.Form1.resources
+D:\DropBox\dll\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\x86\Debug\FileBackUpHelper.Form2.resources
+D:\DropBox\dll\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\x86\Debug\FileBackUpHelper.Properties.Resources.resources
+D:\DropBox\dll\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\x86\Debug\FileBackUpHelper.csproj.GenerateResource.Cache
+D:\DropBox\dll\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\x86\Debug\FileBackUpHelper.exe
+D:\DropBox\dll\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\x86\Debug\FileBackUpHelper.pdb
+D:\DropBox\dll\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\x86\Debug\FileBackUpHelper.csprojResolveAssemblyReference.cache
