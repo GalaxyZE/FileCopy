@@ -8,3 +8,13 @@ D:\DropBox\dll\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\Debug\File
 D:\DropBox\dll\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\Debug\FileBackUpHelper.exe
 D:\DropBox\dll\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\Debug\FileBackUpHelper.pdb
 D:\DropBox\dll\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\Debug\FileBackUpHelper.Form2.resources
+D:\VisualStudio\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\bin\Debug\FileBackUpHelper.exe.config
+D:\VisualStudio\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\Debug\FileBackUpHelper.exe
+D:\VisualStudio\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\Debug\FileBackUpHelper.pdb
+D:\VisualStudio\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\bin\Debug\FileBackUpHelper.exe
+D:\VisualStudio\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\bin\Debug\FileBackUpHelper.pdb
+D:\VisualStudio\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\Debug\FileBackUpHelper.csprojResolveAssemblyReference.cache
+D:\VisualStudio\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\Debug\FileBackUpHelper.Form1.resources
+D:\VisualStudio\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\Debug\FileBackUpHelper.Form2.resources
+D:\VisualStudio\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\Debug\FileBackUpHelper.Properties.Resources.resources
+D:\VisualStudio\FileBackUpHelper\FileBackUpHelper\FileBackUpHelper\obj\Debug\FileBackUpHelper.csproj.GenerateResource.Cache
